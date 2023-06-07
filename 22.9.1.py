@@ -29,7 +29,7 @@ def sort_num(array):
 
 list_of_num = sort_num(list_of_num)
 
-print(list_of_num)
+#print(list_of_num)
 
 if one_num > list_of_num[len(list_of_num) - 1] or one_num < list_of_num[0]:
     print("Нет чисел удовлетворяющих условию")
